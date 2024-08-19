@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Why We Use <br> Element",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make text Italic",
+        "answer_3": "To Add Breakline",
+        "answer_4": "To Create Horizontal Line",
+        "right_answer": "To Add Breakline"
+    },
+    {
+        "title": "Is <img> Element Has Attribute href",
+        "answer_1": "Yes",
+        "answer_2": "No It's For Anchor Tag <a>",
+        "answer_3": "All Element Has This Attribute",
+        "answer_4": "Answer 1 And 3 Is Right",
+        "right_answer": "No It's For Anchor Tag <a>"
+    },
+    {
+        "title": "Why We Use <br> Element",
+        "answer_1": "To Make Text Bold",
+        "answer_2": "To Make text Italic",
+        "answer_3": "To Add Breakline",
+        "answer_4": "To Create Horizontal Line",
+        "right_answer": "To Add Breakline"
+    },
+    {
+        "title": "How Can We Make Element Text Bold",
+        "answer_1": "Putting It inside <b> Tag",
+        "answer_2": "Putting It Inside <strong> Tag",
+        "answer_3": "Customizing It With Font-Weight Property In CSs",
+        "answer_4": "All Anwers Is Right",
+        "right_answer": "All Anwers Is Right"
+    },
+    {
+        "title": "What Is The Tag That Not Exists In HTML",
+        "answer_1": "<object>",
+        "answer_2": "<basefont>",
+        "answer_3": "<abbr>",
+        "answer_4": "All Tags Are Exist In HTML",
+        "right_answer": "All Tags Are Exist In HTML"
+    },
+    {
+        "title": "How WE Specify Document Type Of HTML5 Page",
+        "answer_1": "<DOCTYPE  html>",
+        "answer_2": "<DOCTYPE  html5>",
+        "answer_3": "<!DOCTYPE  html5>",
+        "answer_4": "<!DOCTYPE  html>",
+        "right_answer": "<!DOCTYPE  html>"
+    },
+    {
+        "title": "What Is The Element That's Not Exists In HTML5 Samantics",
+        "answer_1": "<article>",
+        "answer_2": "<section>",
+        "answer_3": "<aside>",
+        "answer_4": "<blockquote>",
+        "right_answer": "<blockquote>"
+    }
+]
